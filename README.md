@@ -1,4 +1,4 @@
 # hello-world
 A basic project to learn how to make own repository on github platform.
 
-i am shreyas. and one day i will become an master data scientist that every company wants to hire.
+I Am Shreyas And One Day I Will Become An Master Data Scientist That Every Company Wants To Hire.
